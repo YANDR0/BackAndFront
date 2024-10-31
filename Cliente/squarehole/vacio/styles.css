@@ -1,0 +1,45 @@
+body {
+    background-color: black;
+    margin: 10px;
+}
+
+header {
+    background-color: black;
+    color: white;
+    ul {
+        li {
+            display: inline-block;
+            margin: 10px;
+        }
+    }
+}
+
+.page {
+    background-color: beige;
+    width: 80%;
+    float: left;
+    margin: auto;
+}
+
+.sidebar {
+    width: 20%;
+    float: left;
+    background-color: gray;
+}
+
+.principal {
+    width: 80%;
+}
+
+
+.portada {
+    background-color: gray;
+}
+
+.cards {
+    div {
+        float: left;
+        width: 33%;
+    }
+}
+
